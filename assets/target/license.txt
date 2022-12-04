@@ -1,0 +1,11 @@
+Model Information:
+* title:	Target
+* source:	https://sketchfab.com/3d-models/target-c9215574514540f294766585fdd62369
+* author:	Sololopenko (https://sketchfab.com/Sololopenko)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Target" (https://sketchfab.com/3d-models/target-c9215574514540f294766585fdd62369) by Sololopenko (https://sketchfab.com/Sololopenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
